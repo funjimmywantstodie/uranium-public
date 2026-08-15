@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://uranium-api.maxbob-com.workers.dev/v1/loader"))()
+loadstring(game:HttpGet("https://uranium-api.funjimmy.workers.dev/v1/loader"))()
